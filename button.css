@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    height: 100vh;
+    background-color: rgb(19, 18, 18);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+height: 50px;
+width: 200px;
+border: none;
+background-color: rgb(66, 62, 62);
+color: white;
+border-radius: 1000px;
+font-family: 'Courier New', Courier, monospace;
+}
